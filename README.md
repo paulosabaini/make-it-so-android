@@ -11,3 +11,9 @@ To explain how each product above was used in the code, we've written a series o
 ## Contact
 
 Twitter: [@coelho_dev](https://twitter.com/coelho_dev)
+
+## Articles
+
+1. [Building an Android app with Jetpack Compose and Firebase](https://firebase.blog/posts/2022/04/building-an-app-android-jetpack-compose-firebase)
+2. [Adding Firebase Authentication to a Jetpack Compose app](https://firebase.blog/posts/2022/05/adding-firebase-auth-to-jetpack-compose-app)
+3. [Adding Crashlytics to a Jetpack Compose app](https://firebase.blog/posts/2022/06/adding-crashlytics-to-jetpack-compose-app)
